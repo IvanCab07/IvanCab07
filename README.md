@@ -1,4 +1,4 @@
-<h1 align="center">Iván</h1>
+<h1 align="center">Iván Caballero</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Desarrollador+Full+Stack;Full+Stack+Developer;Sviluppatore+Full+Stack;Java+%2B+Spring+Boot+%2B+React+%2B+TypeScript" alt="Desarrollador Full Stack" />
@@ -6,21 +6,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO/"><!-- CAMBIAR -->
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="assets/social/linkedin.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:ivanecr07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="assets/social/gmail.svg" height="40" alt="Gmail" />
   </a>
   <a href="https://tu-portfolio.vercel.app"><!-- CAMBIAR -->
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="assets/social/portfolio.svg" height="40" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/Ivanecr07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="assets/social/instagram.svg" height="40" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IvanCab07&label=Visitas+al+perfil&color=58a6ff&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=IvanCab07.IvanCab07&left_text=Visitas&left_color=161B22&right_color=58A6FF" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/github/followers/IvanCab07?style=flat&label=Seguidores&labelColor=161B22&color=58A6FF&logo=github&logoColor=C9D1D9" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/IvanCab07?affiliations=OWNER&style=flat&label=Estrellas&labelColor=161B22&color=58A6FF&logo=github&logoColor=C9D1D9" alt="Estrellas" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
