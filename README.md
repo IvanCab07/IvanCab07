@@ -77,12 +77,12 @@
 
 | Área | Tecnologías |
 |:--|:--|
-| **Lenguajes** | ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Bases de datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Lombok](https://img.shields.io/badge/Lombok-BC2D2D?style=flat-square) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Lenguajes** | <img src="assets/tech/java.svg" height="34" alt="Java 21" /> <img src="assets/tech/typescript.svg" height="34" alt="TypeScript" /> <img src="assets/tech/javascript.svg" height="34" alt="JavaScript" /> <img src="assets/tech/cpp.svg" height="34" alt="C++" /> |
+| **Backend** | <img src="assets/tech/springboot.svg" height="34" alt="Spring Boot" /> <img src="assets/tech/springsecurity.svg" height="34" alt="Spring Security" /> <img src="assets/tech/springdatajpa.svg" height="34" alt="Spring Data JPA" /> <img src="assets/tech/nodejs.svg" height="34" alt="Node.js" /> <img src="assets/tech/express.svg" height="34" alt="Express" /> <img src="assets/tech/prisma.svg" height="34" alt="Prisma" /> <img src="assets/tech/jwt.svg" height="34" alt="JWT" /> <img src="assets/tech/flyway.svg" height="34" alt="Flyway" /> |
+| **Frontend** | <img src="assets/tech/react.svg" height="34" alt="React" /> <img src="assets/tech/vite.svg" height="34" alt="Vite" /> <img src="assets/tech/tailwind.svg" height="34" alt="Tailwind CSS" /> <img src="assets/tech/tanstackquery.svg" height="34" alt="TanStack Query" /> <img src="assets/tech/zustand.svg" height="34" alt="Zustand" /> |
+| **Mobile** | <img src="assets/tech/reactnative.svg" height="34" alt="React Native" /> <img src="assets/tech/expo.svg" height="34" alt="Expo" /> <img src="assets/tech/nativewind.svg" height="34" alt="NativeWind" /> |
+| **Bases de datos** | <img src="assets/tech/mysql.svg" height="34" alt="MySQL" /> <img src="assets/tech/postgresql.svg" height="34" alt="PostgreSQL" /> <img src="assets/tech/postgis.svg" height="34" alt="PostGIS" /> |
+| **Herramientas** | <img src="assets/tech/git.svg" height="34" alt="Git" /> <img src="assets/tech/github.svg" height="34" alt="GitHub" /> <img src="assets/tech/maven.svg" height="34" alt="Maven" /> <img src="assets/tech/openapi.svg" height="34" alt="OpenAPI" /> <img src="assets/tech/postman.svg" height="34" alt="Postman" /> <img src="assets/tech/lombok.svg" height="34" alt="Lombok" /> |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -111,16 +111,16 @@ Backend de gestión para una aseguradora argentina: autenticación y autorizaci�
 ## <img src="assets/icons/chart.svg" height="22" align="center" /> Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=IvanCab07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=IvanCab07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=IvanCab07&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=8" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=IvanCab07&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IvanCab07&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=IvanCab07&locale=es&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=8" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=IvanCab07&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20commits" alt="Actividad de commits" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=IvanCab07&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&border_color=30363D&radius=8&custom_title=Actividad%20de%20commits" alt="Actividad de commits" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
